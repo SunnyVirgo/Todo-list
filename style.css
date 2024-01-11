@@ -114,5 +114,23 @@ ul li:hover{
     }
     .container .input{
         justify-content: space-between;
+
+    }
+}
+@media screen and (max-width: 350px){
+    .container{
+        width: 80%;
+    }
+    .container .input{
+        display: block;
+        
+    }
+    .container .input button{
+        margin-top: .5rem;
+        margin-left: 0;
+    }
+    .container .input input{
+        width:90%;
+        font-size: .8rem;
     }
 }
