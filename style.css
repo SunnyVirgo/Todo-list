@@ -54,6 +54,7 @@ body{
     color: rgb(36, 33, 33);
     padding: .5rem 1rem;
     margin-left: 1rem;
+    margin-right: 2rem;
 }
  ul li{
     list-style: none;
