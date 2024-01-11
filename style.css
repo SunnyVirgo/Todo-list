@@ -108,6 +108,11 @@ ul li:hover{
     border-radius: .5rem;
 }
 
-/* @media screen and (max-width: 340px){
-    
-} */
+@media screen and (max-width: 450px){
+    .container{
+        width: 95%;
+    }
+    .container .input{
+        justify-content: space-between;
+    }
+}
